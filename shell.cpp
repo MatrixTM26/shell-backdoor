@@ -1,3 +1,6 @@
+// AUTHOR : MatrixTM26
+// GitHub : https://github.com/MatrixTM26
+
 #include <winsock2.h>
 #include <stdio.h>
 #pragma comment(lib,"ws2_32")
