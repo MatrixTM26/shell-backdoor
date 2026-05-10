@@ -1,3 +1,6 @@
+// AUTHOR : MatrixTM26
+// GITHUB : https://github.com/MatrixTM26
+
 package main
 
 import (
